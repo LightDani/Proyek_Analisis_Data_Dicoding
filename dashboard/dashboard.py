@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 # Load and preprocess data
-data = pd.read_csv("main_data.csv")
+data = pd.read_csv("dashboard/main_data.csv")
 
 
 def preprocess_data(df):

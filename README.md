@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ```
 (inside virtual env)
 cd dashboard
-streamlit run dashboard.py
+streamlit run .\dashboard\dashboard.py
 ```
