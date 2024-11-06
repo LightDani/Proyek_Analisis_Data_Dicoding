@@ -15,3 +15,6 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run .\dashboard\dashboard.py
 ```
+
+## Open Dashboard Online
+[Dashboard on Streamlit](https://lightdani-proyek-analisis-data-dicodi-dashboarddashboard-ac19cs.streamlit.app/)
