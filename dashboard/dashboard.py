@@ -49,7 +49,6 @@ num_orders = filtered_data["order_id"].nunique()
 average_order_value = total_revenue / num_orders if num_orders > 0 else 0
 units_sold = filtered_data["order_item_id"].count()
 
-# Display KPIs in a row with individual `with` statements
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
